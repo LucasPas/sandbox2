@@ -1,4 +1,41 @@
 header{
+  font-size: 80px;
+  height: 108px;
+  background-color: #783987;
+  color: #AAAAAA
+}
+
+#color1{
+  height:512px;
+  width: inherit;
+  background-color: #961549
+}
+
+.Jumbo{
+  height: 540px;
+  width: 1080px;
+}
+
+#walnuts{
+  height: 512px;
+  width: 540px;
+  float: left;
+}
+
+#almonds{
+  height: 512px;
+  width: 540px;
+  float: right;
+}
+
+#color2{
+  height: 540px;
+  width: inherit;
+  background-color: #961549
+}
+
+footer{
+  font-size: 80px;
   height: 108px;
   background-color: #783987;
   color: #AAAAAA
